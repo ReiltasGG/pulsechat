@@ -10,6 +10,7 @@ RAG combines a vector search engine with a large language model. Instead of the 
 - Ask questions about the FlowDesk product and pricing
 - Source attribution — shows which document the answer came from
 - Chat history within session
+- Fully local — no API keys, no cloud, no cost
 - Clean, minimal UI consistent with the PulseBoard design system
 
 ## Tech Stack
@@ -19,7 +20,14 @@ RAG combines a vector search engine with a large language model. Instead of the 
 | Document loading | LangChain |
 | Chunking & retrieval | LangChain + ChromaDB |
 | Embeddings | sentence-transformers (all-MiniLM-L6-v2) |
-| LLM | Mistral 7B Instruct via HuggingFace Inference API |
+| LLM | Gemma 3 4B via Ollama (local inference) |
+
+## Prerequisites
+- [Ollama](https://ollama.com) installed and running
+- Gemma 3 4B pulled locally:
+```bash
+ollama pull gemma3:4b
+```
 
 ## Run Locally
 
@@ -31,9 +39,8 @@ source venv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
-# Set up your HuggingFace API token
-cp .env.example .env
-# Edit .env and add your token
+# Start Ollama in a separate terminal
+ollama serve
 
 # Run the app
 streamlit run app.py
@@ -47,7 +54,6 @@ pulsechat/
 │   ├── company_handbook.txt
 │   └── product_faq.txt
 ├── requirements.txt
-├── .env.example        # Token template (never commit .env)
 └── .gitignore
 ```
 
