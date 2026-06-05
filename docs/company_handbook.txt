@@ -1,0 +1,98 @@
+NOVA TECH SOLUTIONS — COMPANY HANDBOOK
+Last Updated: January 2024
+
+=== COMPANY OVERVIEW ===
+
+Nova Tech Solutions is a B2B SaaS company founded in 2018, headquartered in Austin, Texas. We build workflow automation tools for mid-size businesses across the United States. Our flagship product is FlowDesk, a no-code automation platform used by over 3,000 companies.
+
+Our mission is to eliminate repetitive work for businesses so their teams can focus on what matters most.
+
+=== WORKING HOURS & REMOTE POLICY ===
+
+Nova Tech operates on a fully remote-first model. Core hours are 10am–3pm Central Time, Monday through Friday. Outside of core hours, employees are expected to respond to messages within 4 hours during their working day.
+
+Employees may work from anywhere within the United States. International remote work is permitted for up to 30 days per year with manager approval.
+
+=== TIME OFF POLICY ===
+
+Nova Tech offers unlimited PTO. Employees are encouraged to take a minimum of 15 days off per year. Time off requests should be submitted in Rippling at least 5 business days in advance for periods of 3 days or more.
+
+Public holidays observed: New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving (Thursday and Friday), Christmas Day.
+
+Company-wide shutdown: Nova Tech closes for one week between Christmas and New Year's every year. This does not count against PTO.
+
+=== COMPENSATION & PAYROLL ===
+
+Employees are paid bi-weekly on Fridays via direct deposit. Payroll is processed through Rippling. Pay stubs are accessible in the Rippling dashboard.
+
+Annual performance reviews occur in December. Merit increases take effect January 1st of the following year. The standard merit increase range is 3–7% based on performance rating.
+
+Equity: All full-time employees receive stock options at hire. Vesting schedule is 4 years with a 1-year cliff.
+
+=== BENEFITS ===
+
+Health Insurance: Nova Tech covers 100% of employee premiums for medical, dental, and vision through Blue Cross Blue Shield. Dependents are covered at 80%.
+
+401(k): Nova Tech offers a 401(k) through Fidelity with a 4% company match. Employees are eligible after 90 days of employment.
+
+Home Office Stipend: Employees receive a one-time $1,000 home office setup stipend upon hire, and $500 annually for equipment and supplies.
+
+Learning & Development: Each employee receives a $1,500 annual budget for courses, conferences, books, or certifications.
+
+Mental Health: Nova Tech provides 12 free therapy sessions per year through Spring Health.
+
+=== ONBOARDING ===
+
+New employees begin with a 2-week onboarding program. Week 1 focuses on company culture, tools, and meeting your team. Week 2 is role-specific training.
+
+Tools you will be set up with on day 1:
+- Slack (internal communication)
+- Notion (documentation and wikis)
+- Linear (project management)
+- GitHub (code repository)
+- Figma (design — engineering and product teams)
+- Rippling (HR and payroll)
+- Google Workspace (email, calendar, docs)
+
+Your manager will schedule a 30-60-90 day check-in to review your progress and goals.
+
+=== PERFORMANCE REVIEWS ===
+
+Nova Tech uses a bi-annual review cycle. Mid-year check-ins occur in June and formal reviews in December. Reviews are conducted in Lattice.
+
+Performance ratings:
+- Exceeds Expectations
+- Meets Expectations
+- Needs Improvement
+
+Employees rated Needs Improvement for two consecutive cycles may be placed on a Performance Improvement Plan (PIP).
+
+=== CODE OF CONDUCT ===
+
+Nova Tech is committed to maintaining a respectful, inclusive workplace. Discrimination or harassment of any kind is not tolerated and should be reported immediately to HR at hr@novatechsolutions.com.
+
+Conflicts of interest must be disclosed to your manager and HR. This includes outside employment, investments in competitors, or personal relationships with vendors.
+
+=== IT & SECURITY ===
+
+All company devices must have full-disk encryption enabled. Employees must use the company VPN when accessing internal systems from public networks.
+
+Passwords must be managed through 1Password. Sharing passwords via Slack, email, or any other channel is strictly prohibited.
+
+Any suspected security incident must be reported to security@novatechsolutions.com immediately.
+
+=== TRAVEL & EXPENSES ===
+
+Business travel must be approved by your manager in advance. Book travel through TripActions. Economy class is standard for flights under 6 hours. Business class requires VP approval.
+
+Expense reimbursements are submitted in Rippling and processed within 2 pay cycles. Receipts are required for all expenses over $25.
+
+Daily meal per diem during travel: $75.
+
+=== OFFBOARDING ===
+
+Employees resigning must provide a minimum of 2 weeks notice. Final paychecks are issued on the next regular pay date following the last day of work.
+
+All company equipment must be returned within 5 business days of the last day. A prepaid shipping label will be provided by IT.
+
+Access to all company systems is revoked on the last day of employment.
